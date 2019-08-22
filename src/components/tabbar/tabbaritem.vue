@@ -24,10 +24,9 @@ export default {
     },
     activecolor: {
       type: String,
-      default: "red"
+      default: "#FF488D"
     }
   },
-  // props: ["path", "activecolor"],
   methods: {
     tiao() {
       this.$router.push(this.path);
