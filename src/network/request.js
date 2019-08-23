@@ -28,8 +28,8 @@ export function request(config, success, sb) {
 
     instance1(config).then(function (res) {
         success(res);
-        console.log(res)
     }).catch(function (err) {
         sb(err);
     });
+
 }

@@ -20,12 +20,11 @@ export default {};
 </script>
 
 <style>
-.swiper {
-  height: 250px;
+
+.swiper{
+  height: 190px;
 }
 .swiper img {
-  height: 200px;
   width: 100%;
-  margin-top:60px;
 }
 </style>

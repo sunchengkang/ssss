@@ -13,13 +13,13 @@
         <div slot="itemtitle">商品</div>
       </tabbaritem>
       <tabbaritem path="/gou">
-        <img src="./assets/img/tabbar/3.png" alt slot="itemicon" />
-        <img src="./assets/img/tabbar/33.png" alt slot="itemiconActive" />
+        <img src="./assets/img/tabbar/4.png" alt slot="itemicon" />
+        <img src="./assets/img/tabbar/44.png" alt slot="itemiconActive" />
         <div slot="itemtitle">购物车</div>
       </tabbaritem>
       <tabbaritem path="/wo">
-        <img src="./assets/img/tabbar/4.png" alt slot="itemicon" />
-        <img src="./assets/img/tabbar/44.png" alt slot="itemiconActive" />
+        <img src="./assets/img/tabbar/3.png" alt slot="itemicon" />
+        <img src="./assets/img/tabbar/33.png" alt slot="itemiconActive" />
         <div slot="itemtitle">我的</div>
       </tabbaritem>
     </tabbar>
@@ -40,5 +40,6 @@ export default {
 *{
   padding: 0;
   margin: 0;
+  list-style: none;
 }
 </style>

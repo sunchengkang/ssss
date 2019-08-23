@@ -9,8 +9,11 @@ export default {};
 </script>
 
 <style>
+.mint-search{
+  height:50px;
+}
 .hearde {
   width: 100%;
-  position: fixed;
+  height:100%;
 }
 </style>
