@@ -1,6 +1,6 @@
 <template>
   <div class="deng">
-    <div class="div1">登录/注册</div>
+    <div class="div1"><a href="">登录/注册</a></div>
     <div class="div2">
       <div>
         <img src="../../assets/img/denglu/3.jpg" alt />我的订单
@@ -35,6 +35,7 @@
   line-height: 100px;
   margin:0 40px;
 }
+
 .div2 div{
    height: 50px;
    padding-right:0px;
@@ -47,7 +48,7 @@
 }
 span{
    display: inline-block;
-   float: right;
+   float: left;
 }
 .div2 div:after{
    clear: both;

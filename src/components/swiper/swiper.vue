@@ -22,7 +22,8 @@ export default {};
 <style>
 
 .swiper{
-  height: 190px;
+  height: 180px;
+  width:100%;
 }
 .swiper img {
   width: 100%;

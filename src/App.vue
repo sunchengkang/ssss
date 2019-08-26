@@ -42,4 +42,7 @@ export default {
   margin: 0;
   list-style: none;
 }
+a{
+ text-decoration: none;
+}
 </style>
